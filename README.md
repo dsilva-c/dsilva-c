@@ -83,6 +83,13 @@ I possess the **Green Ranger's ambition** paired with the **team's collaborative
   </tr>
 </table>
 
+<br>
+
+<div align="center">
+<h3>🐲 DRAGONZORD ENERGY READINGS (Contribution Graph) 🐲</h3>
+<img src="https://github.com/dsilva-c/dsilva-c/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="5">
