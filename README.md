@@ -92,14 +92,12 @@ I possess the **Green Ranger's ambition** paired with the **team's collaborative
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="5">
+<br>
+
+<img src="https://img.shields.io/badge/Status-Green_Ranger_of_Sector_42-000000?style=flat-square&logo=github&logoColor=green" height="30"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Status-May_The_Power_Protect_You-000000?style=flat-square&logo=github&logoColor=green" height="30"/>
-
-<br><br>
-
-[<img src="https://img.shields.io/badge/Let's_Collaborate-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/danielgscardoso/)
+[<img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/danielgscardoso/)
 
 </div>
