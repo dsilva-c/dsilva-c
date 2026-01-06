@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="green_ranger.md" title="It's Morphin Time!">
+  <a href="https://github.com/dsilva-c/dsilva-c/tree/green-ranger" title="It's Morphin Time!">
     <img src="https://img.shields.io/badge/SWITCH_THEME-GREEN_RANGER-D4AF37?style=for-the-badge&logo=dragon&logoColor=007F00" alt="Switch to Green Ranger"/>
   </a>
 </div>
