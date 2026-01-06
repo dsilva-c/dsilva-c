@@ -1,24 +1,16 @@
-<div align="right">
-  <a href="https://github.com/dsilva-c/dsilva-c/tree/green-ranger" title="It's Morphin Time!">
-    <img src="https://img.shields.io/badge/SWITCH_THEME-GREEN_RANGER-D4AF37?style=for-the-badge&logo=dragon&logoColor=007F00" alt="Switch to Green Ranger"/>
-  </a>
-</div>
-
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&pause=1000&color=43A047&center=true&vCenter=true&width=500&lines=INITIATING_POWER_BATTERY...;ACCESSING_OA_DATABASE...;SUBJECT:+DANIEL_CARDOSO;STATUS:+FULLY_CHARGED" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&pause=1000&color=43A047&center=true&vCenter=true&width=500&lines=IN+BLACKEST+NIGHT...;NO+EVIL+SHALL+ESCAPE+MY+SIGHT...;LET+THOSE+WHO+WORSHIP+EVIL'S+MIGHT...;BEWARE+MY+POWER...;GREEN+LANTERN'S+LIGHT!" alt="Typing SVG" />
 </a>
 
-<img src="https://64.media.tumblr.com/f0438a2212d1b72a6b47c093a0058913/tumblr_n88a10s7s51s30ko5o1_500.gif" width="100%" height="300" style="border-radius: 15px; object-fit: cover; box-shadow: 0 0 25px rgba(67, 160, 71, 0.4); border: 2px solid #43A047;" />
+<img src="https://i.pinimg.com/originals/02/4c/a8/024ca87ab58afd45fed3d58d53571cc8.gif" width="100%" height="300" style="border-radius: 15px; object-fit: cover; box-shadow: 0 0 25px rgba(67, 160, 71, 0.4); border: 2px solid #43A047;" />
 
-<h1 style="font-size: 2.5rem; letter-spacing: 5px;">🟢 IN BRIGHTEST DAY... 🟢</h1>
-
-### 💍 Lantern ID: `dsilva-c` | 📍 Sector: 2814
+### <img src="https://static.wikia.nocookie.net/gltas/images/c/c8/Green_Lantern_Power_Ring.png/revision/latest/scale-to-width-down/279?cb=20121119211323" height="25" style="vertical-align: middle;"> Lantern ID: `dsilva-c` | 📍 Jurisdiction: `42 Porto Sector`
 
 <br>
 
-<img src="https://media.giphy.com/media/xT9DPu9Fk9r5h4K3iE/giphy.gif" width="25"> *Channeling the Emerald Energy of Willpower to engineer robust systems and creative software solutions.* <img src="https://media.giphy.com/media/xT9DPu9Fk9r5h4K3iE/giphy.gif" width="25">
+<img src="https://media.tenor.com/Hsfpmr_PFIUAAAAM/elmo-fire-elmo.gif" width="25"> *Channeling the Emerald Energy of Willpower to connect raw hardware power with high-level software abstractions.* <img src="https://media.tenor.com/Hsfpmr_PFIUAAAAM/elmo-fire-elmo.gif" width="25">
 
 </div>
 
@@ -28,25 +20,25 @@
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://64.media.tumblr.com/tumblr_m8m6v9jG8J1rcp7bmo1_500.gif" width="100%" style="border-radius: 15px; box-shadow: 0 0 15px rgba(67, 160, 71, 0.5);" />
+<img src="https://64.media.tumblr.com/fdcc9e2a8062a78f0fd0f2d97035ec79/756d635b08a9a40a-57/s400x600/4ee5a470fcbec704a2bacec0362f14e3c65efe3e.gif" width="70%" style="border-radius: 15px; box-shadow: 0 0 15px rgba(67, 160, 71, 0.5);" />
 
 </td>
 <td width="60%" valign="middle" align="center" style="padding-left: 20px;">
 
 <div align="center">
 
-### 🔋 Oan Power Battery Log
+### 🔋 Oa Database Entry
 
-I possess the **Indomitable Will** of a Lantern and the **precision** of a Guardian. My background in **Industrial Electronics** fuels my ring, while **42 Porto** expands my constructs.
+I possess the **Lantern's Indomitable Will** paired with the **Corps' collaborative spirit**. My background in **Industrial Electronics and Computers Engineering** fuels my ring, while **42 Porto** expands my constructs.
 
 <br>
 
-| 💍 Attribute | 📶 Ring Capacity | ⚡ Construct Type |
+| <img src="https://static.wikia.nocookie.net/dcmovies/images/c/ca/Green_Lantern_GLTAS.png/revision/latest?cb=20190118210443" width="18" /> Attribute | 📶 Ring Capacity | ⚡ Construct Effect |
 | :---: | :---: | :---: |
-| **Willpower** | █████████░ | *Core Stability* |
-| **Imagination** | ████████░░ | *Creative Logic* |
-| **Fearlessness** | █████████░ | *Debug Mode* |
-| **Loyalty** | ████████░░ | *Corps Protocol* |
+| **Willpower** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛ | *Segfault Shield* |
+| **Autonomy** | 🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛ | *Solo Flight* |
+| **Teamwork** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛ | *Corps Alliance* |
+| **Empathy** | 🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛ | *Human-Centric* |
 
 </div>
 
@@ -72,7 +64,7 @@ I possess the **Indomitable Will** of a Lantern and the **precision** of a Guard
       <br>
       <img src="https://img.shields.io/badge/Shell-Construct-1b5e20?style=for-the-badge&logo=gnu-bash&logoColor=white" />
       <br>
-      <img src="https://img.shields.io/badge/Linux-Sector_2814-000000?style=for-the-badge&logo=linux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-Oa_Server-000000?style=for-the-badge&logo=linux&logoColor=43A047" />
     </td>
     <td align="center" width="50%" valign="top">
       <h4>⚡ HARD LIGHT INTERFACE (High Level)</h4>
@@ -100,7 +92,8 @@ I possess the **Indomitable Will** of a Lantern and the **precision** of a Guard
 
 <br>
 
-<img src="https://img.shields.io/badge/Status-Beware_My_Power-000000?style=flat-square&logo=greenlantern&logoColor=43A047" height="30"/>
+<img src="https://img.shields.io/badge/Assignment-Finish_Common_Core-000000?style=flat-square&logo=greenlantern&logoColor=43A047"/>
+<img src="https://img.shields.io/badge/Ring_Charge-100%25-43A047?style=flat-square&logo=battery&logoColor=black"/>
 
 <br>
 
