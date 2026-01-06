@@ -1,18 +1,24 @@
+<div align="right">
+  <a href="green_ranger.md" title="It's Morphin Time!">
+    <img src="https://img.shields.io/badge/SWITCH_THEME-GREEN_RANGER-D4AF37?style=for-the-badge&logo=dragon&logoColor=007F00" alt="Switch to Green Ranger"/>
+  </a>
+</div>
+
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&pause=1000&color=32CD32&center=true&vCenter=true&width=500&lines=INITIATING_MORPHIN_SEQUENCE...;ACCESSING_GRID_DATA...;SUBJECT:+DANIEL_CARDOSO;STATUS:+ONLINE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&pause=1000&color=43A047&center=true&vCenter=true&width=500&lines=INITIATING_POWER_BATTERY...;ACCESSING_OA_DATABASE...;SUBJECT:+DANIEL_CARDOSO;STATUS:+FULLY_CHARGED" alt="Typing SVG" />
 </a>
 
-<img src="https://64.media.tumblr.com/497ff6b059339cd36753a6209b5828c8/tumblr_o0vhu5LYJ81rg17yqo2_500.gif" width="100%" height="300" style="border-radius: 15px; object-fit: cover; box-shadow: 0 0 25px rgba(50, 205, 50, 0.4); border: 2px solid #006400;" />
+<img src="https://64.media.tumblr.com/f0438a2212d1b72a6b47c093a0058913/tumblr_n88a10s7s51s30ko5o1_500.gif" width="100%" height="300" style="border-radius: 15px; object-fit: cover; box-shadow: 0 0 25px rgba(67, 160, 71, 0.4); border: 2px solid #43A047;" />
 
-<h1 style="font-size: 2.5rem; letter-spacing: 5px;">⚡ IT'S MORPHIN TIME! ⚡</h1>
+<h1 style="font-size: 2.5rem; letter-spacing: 5px;">🟢 IN BRIGHTEST DAY... 🟢</h1>
 
-### 📡 Ranger ID: `dsilva-c` | 📍 Sector: 42 Porto
+### 💍 Lantern ID: `dsilva-c` | 📍 Sector: 2814
 
 <br>
 
-<img src="https://64.media.tumblr.com/87289e8c3aef97c0e119f11675c0130a/tumblr_od4smgr2gd1shyusgo1_400.gif" width="25"> *Tapping into the Morphing Grid to connect raw hardware power with high-level software abstractions.* <img src="https://64.media.tumblr.com/87289e8c3aef97c0e119f11675c0130a/tumblr_od4smgr2gd1shyusgo1_400.gif" width="25">
+<img src="https://media.giphy.com/media/xT9DPu9Fk9r5h4K3iE/giphy.gif" width="25"> *Channeling the Emerald Energy of Willpower to engineer robust systems and creative software solutions.* <img src="https://media.giphy.com/media/xT9DPu9Fk9r5h4K3iE/giphy.gif" width="25">
 
 </div>
 
@@ -22,25 +28,25 @@
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://i.pinimg.com/originals/ed/19/a8/ed19a858973a66433f59984ef0861d62.gif" width="100%" style="border-radius: 15px; box-shadow: 0 0 15px rgba(255, 0, 0, 0.3);" />
+<img src="https://64.media.tumblr.com/tumblr_m8m6v9jG8J1rcp7bmo1_500.gif" width="100%" style="border-radius: 15px; box-shadow: 0 0 15px rgba(67, 160, 71, 0.5);" />
 
 </td>
 <td width="60%" valign="middle" align="center" style="padding-left: 20px;">
 
 <div align="center">
 
-### 💾 Command Center Log
+### 🔋 Oan Power Battery Log
 
-I possess the **Green Ranger's ambition** paired with the **team's collaborative spirit**. My background in **Industrial Electronics and Computers Engineering** gives me the hardware edge, while **42 Porto** sharpens my software skills.
+I possess the **Indomitable Will** of a Lantern and the **precision** of a Guardian. My background in **Industrial Electronics** fuels my ring, while **42 Porto** expands my constructs.
 
 <br>
 
-| 🔋 Attribute | 📶 Signal Strength | ⚡ Special Effect |
+| 💍 Attribute | 📶 Ring Capacity | ⚡ Construct Type |
 | :---: | :---: | :---: |
-| **Resilience** | █████████░ | *Segfault Immunity* |
-| **Autonomy** | ████████░░ | *Solo Operator* |
-| **Teamwork** | █████████░ | *Megazord Mode* |
-| **Empathy** | ████████░░ | *Human-Centric* |
+| **Willpower** | █████████░ | *Core Stability* |
+| **Imagination** | ████████░░ | *Creative Logic* |
+| **Fearlessness** | █████████░ | *Debug Mode* |
+| **Loyalty** | ████████░░ | *Corps Protocol* |
 
 </div>
 
@@ -51,34 +57,34 @@ I possess the **Green Ranger's ambition** paired with the **team's collaborative
 <br>
 
 <div align="center">
-<h3>⚔️ ZORD CONTROL PANEL (Tech Stack) ⚔️</h3>
+<h3>⚔️ RING CONSTRUCTS (Tech Stack) ⚔️</h3>
 </div>
 
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="50%" valign="top">
-      <h4>🦖 SYSTEM CONTROLS (Low Level)</h4>
-      <sub>*Heavy&nbsp;metal.&nbsp;System&nbsp;control.&nbsp;The&nbsp;Green&nbsp;Ranger's&nbsp;domain.*</sub>
+      <h4>🔋 BATTERY CORE (Low Level)</h4>
+      <sub>*Fundamental&nbsp;forces.&nbsp;Memory&nbsp;management.&nbsp;The&nbsp;source&nbsp;of&nbsp;power.*</sub>
       <br><br>
-      <img src="https://img.shields.io/badge/C-Dragonzord_Power-006400?style=for-the-badge&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-Willpower-43A047?style=for-the-badge&logo=c&logoColor=white" />
       <br>
-      <img src="https://img.shields.io/badge/Make-Assembly-004d00?style=for-the-badge&logo=gnu&logoColor=gold" />
+      <img src="https://img.shields.io/badge/Make-Oath_Keeper-000000?style=for-the-badge&logo=gnu&logoColor=43A047" />
       <br>
-      <img src="https://img.shields.io/badge/Shell-Mastodon_Power-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF00" />
+      <img src="https://img.shields.io/badge/Shell-Construct-1b5e20?style=for-the-badge&logo=gnu-bash&logoColor=white" />
       <br>
-      <img src="https://img.shields.io/badge/Linux-The_Grid-1a1a1a?style=for-the-badge&logo=linux&logoColor=gold" />
+      <img src="https://img.shields.io/badge/Linux-Sector_2814-000000?style=for-the-badge&logo=linux&logoColor=white" />
     </td>
     <td align="center" width="50%" valign="top">
-      <h4>⚡ MEGAZORD INTERFACE (High Level)</h4>
-      <sub>*Scalability&nbsp;&&nbsp;Architecture.&nbsp;The&nbsp;full&nbsp;team&nbsp;alliance.*</sub>
+      <h4>⚡ HARD LIGHT INTERFACE (High Level)</h4>
+      <sub>*Visualizing&nbsp;solutions.&nbsp;Frontend&nbsp;Constructs.&nbsp;The&nbsp;user&nbsp;layer.*</sub>
       <br><br>
-      <img src="https://img.shields.io/badge/HTML5-Pink_Energy-ff69b4?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-Structure-2E7D32?style=for-the-badge&logo=html5&logoColor=white" />
       <br>
-      <img src="https://img.shields.io/badge/CSS3-Blue_Energy-0000CD?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-Aesthetics-000000?style=for-the-badge&logo=css3&logoColor=43A047" />
       <br>
-      <img src="https://img.shields.io/badge/JS-Yellow_Energy-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/JS-Logic-1b5e20?style=for-the-badge&logo=javascript&logoColor=white" />
       <br>
-      <img src="https://img.shields.io/badge/GIT-Red_Energy-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GIT-Timeline-43A047?style=for-the-badge&logo=git&logoColor=black" />
     </td>
   </tr>
 </table>
@@ -86,7 +92,7 @@ I possess the **Green Ranger's ambition** paired with the **team's collaborative
 <br>
 
 <div align="center">
-<h3>🐲 DRAGONZORD ENERGY READINGS (Contribution Graph) 🐲</h3>
+<h3>🟢 ION ENERGY READINGS (Contribution Graph) 🟢</h3>
 <img src="https://github.com/dsilva-c/dsilva-c/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
@@ -94,7 +100,7 @@ I possess the **Green Ranger's ambition** paired with the **team's collaborative
 
 <br>
 
-<img src="https://img.shields.io/badge/Status-Green_Ranger_of_Sector_42-000000?style=flat-square&logo=github&logoColor=green" height="30"/>
+<img src="https://img.shields.io/badge/Status-Beware_My_Power-000000?style=flat-square&logo=greenlantern&logoColor=43A047" height="30"/>
 
 <br>
 
