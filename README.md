@@ -20,7 +20,7 @@
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://64.media.tumblr.com/fdcc9e2a8062a78f0fd0f2d97035ec79/756d635b08a9a40a-57/s400x600/4ee5a470fcbec704a2bacec0362f14e3c65efe3e.gif" width="70%" style="border-radius: 15px; box-shadow: 0 0 15px rgba(67, 160, 71, 0.5);" />
+<img src="https://64.media.tumblr.com/fdcc9e2a8062a78f0fd0f2d97035ec79/756d635b08a9a40a-57/s400x600/4ee5a470fcbec704a2bacec0362f14e3c65efe3e.gif" width="90%" style="border-radius: 15px; box-shadow: 0 0 15px rgba(67, 160, 71, 0.5);" />
 
 </td>
 <td width="60%" valign="middle" align="center" style="padding-left: 20px;">
@@ -39,6 +39,20 @@ I possess the **Lantern's Indomitable Will** paired with the **Corps' collaborat
 | **Autonomy** | 🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛ | *Solo Flight* |
 | **Teamwork** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛ | *Corps Alliance* |
 | **Empathy** | 🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛ | *Human-Centric* |
+
+<hr style="border: 1px solid #43A047;">
+
+### 📊 Sector Patrol Log
+
+| Milestone | Mission Protocol | Status |
+| :---: | :---: | :---: |
+| **0** | **Libft** | ✅ |
+| **1** | **printf / GNL / B2BR** | ✅ |
+| **2** | **push_swap / Piscine Python** | 🟦 |
+| **3** | **Data Analysis / Minishell** | 🔒 |
+| **4** | **Machine Learning / AI** | 🔒 |
+| **5** | **Web / Microservices** | 🔒 |
+| **6** | **Transcendence** | 🔒 |
 
 </div>
 
