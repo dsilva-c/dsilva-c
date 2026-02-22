@@ -6,7 +6,7 @@
 
 <img src="https://i.pinimg.com/originals/02/4c/a8/024ca87ab58afd45fed3d58d53571cc8.gif" width="100%" height="300" style="border-radius: 15px; object-fit: cover; box-shadow: 0 0 25px rgba(67, 160, 71, 0.4); border: 2px solid #43A047;" />
 
-### <img src="https://static.wikia.nocookie.net/gltas/images/c/c8/Green_Lantern_Power_Ring.png/revision/latest/scale-to-width-down/279?cb=20121119211323" height="25" style="vertical-align: middle;"> Lantern ID: `Daniel Cardoso` | 📍 Jurisdiction: `42 Porto Sector`
+### <img src="https://static.wikia.nocookie.net/gltas/images/c/c8/Green_Lantern_Power_Ring.png/revision/latest/scale-to-width-down/279?cb=20121119211323" height="25" style="vertical-align: middle;"> Lantern ID: `dsilva-c` | 📍 Jurisdiction: `42 Porto Sector`
 
 <br>
 
