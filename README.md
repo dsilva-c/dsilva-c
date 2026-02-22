@@ -48,7 +48,7 @@ I possess the **Lantern's Indomitable Will** paired with the **Corps' collaborat
 | :---: | :---: | :---: |
 | **0** | **Libft** | ✅ |
 | **1** | **printf / GNL / B2BR** | ✅ |
-| **2** | **push_swap / Piscine Python / Exam** | 🟦 |
+| **2** | **push_swap / Piscine Python / A-Maze-ing / Exam** | 🟦 |
 | **3** | **Data Analysis / Minishell / Exam** | 🔒 |
 | **4** | **Machine Learning / AI / Exam** | 🔒 |
 | **5** | **Web / Microservices / Exam** | 🔒 |
