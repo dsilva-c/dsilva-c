@@ -47,12 +47,12 @@ I possess the **Lantern's Indomitable Will** paired with the **Corps' collaborat
 | Milestone | Mission Protocol | Status |
 | :---: | :---: | :---: |
 | **0** | **Libft** | ✅ |
-| **1** | **printf / GNL / B2BR** | ✅ |
-| **2** | **push_swap / Piscine Python / A-Maze-ing / Exam** | 🟦 |
-| **3** | **Data Analysis / Minishell / Exam** | 🔒 |
-| **4** | **Machine Learning / AI / Exam** | 🔒 |
-| **5** | **Web / Microservices / Exam** | 🔒 |
-| **6** | **Transcendence / Exam** | 🔒 |
+| **1** | **Born2beroot / ft_printf / get_next_line** | ✅ |
+| **2** | **A-Maze-ing / Piscine Python / push_swap / Exam Rank 02** | ✅ |
+| **3** | **Call Me Maybe / Codexion / Fly-in / Exam Rank 03** | 🔷 |
+| **4** | **NetPractice / Pac-Man / RAG against the machine / Exam Rank 04** | 🔒 |
+| **5** | **Agent Smith / Inception / The Answer Protocol / Exam Rank 05** | 🔒 |
+| **6** | **42_Collaborative_resume / ft_transcendence / Exam Rank 06** | 🔒 |
 
 </div>
 
@@ -98,6 +98,29 @@ I possess the **Lantern's Indomitable Will** paired with the **Corps' collaborat
 <br>
 
 <div align="center">
+<h3>🛡️ CORPS AFFILIATIONS (Off-Duty Directives) 🛡️</h3>
+</div>
+
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h4>🛰️ SECTOR WATCH — Cyber-Defense Corps</h4>
+      <sub>*"No evil shall escape my sight." Standing guard against intrusions, exploits, and rogue code.*</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Cybersecurity_Club-Sector_Watch-43A047?style=for-the-badge&logo=greenlantern&logoColor=white" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h4>🤝 HONOR GUARD — Corps Assembly</h4>
+      <sub>*Serving the whole Corps, not just one sector. Upholding the collaborative spirit.*</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Student_Association-Honor_Guard-1b5e20?style=for-the-badge&logo=greenlantern&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
 <h3>🟢 ION ENERGY READINGS (Contribution Graph) 🟢</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dsilva-c/dsilva-c/output/snake-dark.svg">
@@ -110,8 +133,14 @@ I possess the **Lantern's Indomitable Will** paired with the **Corps' collaborat
 
 <br>
 
-<img src="https://img.shields.io/badge/Assignment-Finish_Common_Core-000000?style=flat-square&logo=greenlantern&logoColor=43A047"/>
-<img src="https://img.shields.io/badge/Ring_Charge-100%25-43A047?style=flat-square&logo=battery&logoColor=black"/>
+<img src="https://img.shields.io/badge/Current_Assignment-Finish_Common_Core-000000?style=flat-square&logo=greenlantern&logoColor=43A047"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Common_Core_Constructs-33%25-43A047?style=flat-square&logo=greenlantern&logoColor=black"/>
+<img src="https://img.shields.io/badge/Outer_Core_Constructs-🔒_LOCKED-2b2b2b?style=flat-square&logo=greenlantern&logoColor=grey"/>
+
+<sub>*Outer Core constructs unlock upon completion of the Common Core.*</sub>
 
 <br>
 
